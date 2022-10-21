@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24593" started-at="2022-10-18T17:54:19 IST" finished-at="2022-10-18T17:54:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24593" started-at="2022-10-18T17:54:19 IST" finished-at="2022-10-18T17:54:43 IST">
+      <class name="utilities.Example8">
+        <test-method status="PASS" signature="loginLogoutInActitimeApplication()[pri:0, instance:utilities.Example8@1c3a4799]" name="loginLogoutInActitimeApplication" duration-ms="24491" started-at="2022-10-18T17:54:19 IST" finished-at="2022-10-18T17:54:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginLogoutInActitimeApplication -->
+      </class> <!-- utilities.Example8 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
